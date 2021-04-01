@@ -1,0 +1,8 @@
+# python
+__pycache__/
+
+# ocaml
+_build/
+
+# find it at https://github.com/AnAverageHuman/Advent.jl
+Advent.jl/
