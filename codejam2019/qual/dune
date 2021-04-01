@@ -1,0 +1,7 @@
+(executable
+ (name foregone)
+ (modules Foregone))
+
+(executable
+ (name ownway)
+ (modules Ownway))
